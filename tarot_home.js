@@ -18,7 +18,7 @@ function setup() {
   
 //the input text bar
   input = createInput();
-  input.position(620,500);
+  input.position(CENTRE,50);
   
 //the button next to the input bar
   button = createButton('read me');
